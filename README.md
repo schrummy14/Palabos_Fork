@@ -1,3 +1,8 @@
+# Fork of Palabos
+
+This is a fork of the Palabos code base from GitLab (https://gitlab.com/unigespc/palabos).
+Below is the original readme
+
 # Palabos
 
 [Palabos](https://palabos.unige.ch/) is an open-source CFD solver based on the [lattice Boltzmann method](https://palabos.unige.ch/lattice-boltzmann/what-lattice-boltzmann/). 
